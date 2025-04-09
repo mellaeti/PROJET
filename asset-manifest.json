@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nom-du-depot/static/css/main.f4f339a8.css",
+    "main.js": "/nom-du-depot/static/js/main.98eecfb1.js",
+    "static/js/453.b5636a5f.chunk.js": "/nom-du-depot/static/js/453.b5636a5f.chunk.js",
+    "static/media/profile.avif": "/nom-du-depot/static/media/profile.9b9ce8120954e9006510.avif",
+    "static/media/securité2.png": "/nom-du-depot/static/media/securité2.f27c6f464c6c986b35a0.png",
+    "static/media/capteurs2.png": "/nom-du-depot/static/media/capteurs2.aaf81f92b6341e21dda6.png",
+    "static/media/reseaux2.png": "/nom-du-depot/static/media/reseaux2.bb5d73bd8a10cd439e90.png",
+    "static/media/logo.png": "/nom-du-depot/static/media/logo.9cbcfbba806406280958.png",
+    "index.html": "/nom-du-depot/index.html",
+    "main.f4f339a8.css.map": "/nom-du-depot/static/css/main.f4f339a8.css.map",
+    "main.98eecfb1.js.map": "/nom-du-depot/static/js/main.98eecfb1.js.map",
+    "453.b5636a5f.chunk.js.map": "/nom-du-depot/static/js/453.b5636a5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4f339a8.css",
+    "static/js/main.98eecfb1.js"
+  ]
+}
